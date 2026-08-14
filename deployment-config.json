@@ -1,0 +1,8 @@
+{
+  "branches": [
+    {
+      "name": "master",
+      "description": "Grand livre analytique — seed data enrichi (Dossier Test), 5 familles de tags, journaux VT/BQ4/OD/RT"
+    }
+  ]
+}

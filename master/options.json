@@ -1,0 +1,12 @@
+[
+  {
+    "slug": "page",
+    "label": "Page dédiée",
+    "description": "Vue plein écran avec navigation standard"
+  },
+  {
+    "slug": "toggle",
+    "label": "Bascule intégrée",
+    "description": "Bascule Général/Analytique dans la même page"
+  }
+]
